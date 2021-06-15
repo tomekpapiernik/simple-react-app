@@ -1,7 +1,7 @@
 const Header = () => {
     return (
         <div className='Header'>
-            Hello JSNation!
+            Visual tests rule!
         </div>
     );
 };
