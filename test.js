@@ -13,5 +13,5 @@ export let options = {
 };
  
 export default function() {
-   http.get('{YOUR_STAGING_ENV_URL}')
+   http.get('http://159.223.29.170/8080')
  };
